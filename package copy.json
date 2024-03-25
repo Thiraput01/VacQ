@@ -1,5 +1,5 @@
 {
-  "name": "a-8-thiraput01",
+  "name": "a-5-thiraput01",
   "version": "1.0.0",
   "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/9UA29zKh)",
   "main": "server.js",
@@ -14,7 +14,7 @@
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.4.1",
-    "express": "^4.19.1",
+    "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.1.1"
   },
